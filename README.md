@@ -20,7 +20,7 @@ The breast cancer dataset used in this project is publicly available from the Ka
 - Estrogen Status:  ['Positive' 'Negative']
 - Progesterone Status:  ['Positive' 'Negative']
 - Status:  ['Alive' 'Dead']
- N Satge = N refers to whether cancer has spread to nearby lymph nodes. N1, N2, and N3 indicate that cancer has spread to nearby lymph nodes. A Stage: refer to M refers to whether the cancer is metastatic, which means it has spread to distant parts of the body.
+- N Satge = N refers to whether cancer has spread to nearby lymph nodes. N1, N2, and N3 indicate that cancer has spread to nearby lymph nodes. A Stage: refer to M refers to whether the cancer is metastatic, which means it has spread to distant parts of the body.
 ## Installation
 To run the Jupyter Notebook codes, you need to have Python 3 installed on your system along with the following libraries:
 - pandas
