@@ -3,9 +3,7 @@
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 ## Introduction
 Welcome to the Breast Cancer Dataset Analysis repository! This project aims to analyze and explore a breast cancer dataset using Jupyter Notebook. The dataset contains information about various attributes related to breast cancer, and the Jupyter Notebook codes perform data preprocessing, visualization, and predictive modeling.
 ## Dataset
@@ -17,5 +15,7 @@ To run the Jupyter Notebook codes, you need to have Python 3 installed on your s
 - matplotlib
 - seaborn
 - scikit-learn
+# Contributing
+If you would like to contribute to this project, feel free to create a pull request.
 
 
